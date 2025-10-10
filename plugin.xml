@@ -5,7 +5,7 @@
     
     <name>Volume Control Plugin</name>
     <description>Cordova plugin to detect and control device volume levels</description>
-    <author>Your Name</author>
+    <author>Roman Lazurenko</author>
     <license>MIT</license>
     
     <js-module src="www/volumecontrol.js" name="VolumeControl">

@@ -1,4 +1,4 @@
-package com.yourname.volumecontrol;
+package com.woubchat.volumecontrol;
 
 import android.content.Context;
 import android.media.AudioManager;

@@ -15,7 +15,7 @@ A custom Cordova plugin for detecting and controlling device volume levels on iO
 ### From GitHub
 
 ```bash
-cordova plugin add https://github.com/romanlazurenko/cordova-plugin-volume-control.git
+cordova plugin add https://github.com/woub-chat/cordova-plugin-volume-control.git
 ```
 
 ## Usage

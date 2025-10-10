@@ -1,5 +1,5 @@
 {
-  "name": "@romanlazurenko/cordova-plugin-volume-control",
+  "name": "@woub-chat/cordova-plugin-volume-control",
   "version": "1.0.1",
   "description": "Cordova plugin to detect and control device volume levels",
   "main": "www/volumecontrol.js",
@@ -18,17 +18,17 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/romanlazurenko/cordova-plugin-volume-control.git"
+    "url": "git+https://github.com/woub-chat/cordova-plugin-volume-control.git"
   },
   "bugs": {
-    "url": "https://github.com/romanlazurenko/cordova-plugin-volume-control/issues"
+    "url": "https://github.com/woub-chat/cordova-plugin-volume-control/issues"
   },
-  "homepage": "https://github.com/romanlazurenko/cordova-plugin-volume-control#readme",
+  "homepage": "https://github.com/woub-chat/cordova-plugin-volume-control#readme",
   "engines": {
     "cordova": ">=9.0.0"
   },
   "cordova": {
-    "id": "@romanlazurenko/cordova-plugin-volume-control",
+    "id": "@woub-chat/cordova-plugin-volume-control",
     "platforms": [
       "ios",
       "android"
